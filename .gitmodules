@@ -4,5 +4,5 @@
 	ignore = dirty
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/mehanix/arcada
+	url = git@github.com:user9237590463948/mehanix-arcada.git
 	ignore = dirty
